@@ -23,3 +23,9 @@ Images are build and uploaded in a relatively regular interval to [github releas
 * Functioning firmware (u-boot or tow-boot) on the boards SPI flash
 
 Tow-boot images for the SPI flash for your board can be downloaded from [the projects github page](https://github.com/Tow-Boot/Tow-Boot/releases)
+
+## tested devices
+
+This image has been tested to be working on the following devices:
+
+* Pine64-LTS (by Dan Johansen)
