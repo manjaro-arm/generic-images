@@ -29,3 +29,4 @@ Tow-boot images for the SPI flash for your board can be downloaded from [the pro
 This image has been tested to be working on the following devices:
 
 * Pine64-LTS (by Dan Johansen)
+* Pinephone Community Edition (by Benedikt Wildenhain)
